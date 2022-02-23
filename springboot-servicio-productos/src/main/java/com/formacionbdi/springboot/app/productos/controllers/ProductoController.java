@@ -34,10 +34,6 @@ public class ProductoController {
 		Producto producto = productoService.findById(id);
 		producto.setPort(port);
 		
-		boolean ok = false;
-		if(!ok) {
-			throw new RuntimeException("no se pudo cargar el producto");
-		}
 		return producto;
 	}
 
