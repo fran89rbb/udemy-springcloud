@@ -2859,3 +2859,292 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2022-04-03 13:24:57,214 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-04-03 13:24:57,219 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-03 13:24:57,219 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:24:57,220 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-item\src\test\resources
+2022-04-03 13:33:33,434 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-03 13:33:36,106 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.gateway:springboot-servicio-gateway-server:0.0.1-SNAPSHOT @ C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\pom.xml.
+2022-04-03 13:33:37,024 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-resilience4j-2.1.1.pom
+2022-04-03 13:33:37,061 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-resilience4j-2.1.1.pom
+2022-04-03 13:33:37,141 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker/2.1.1/spring-cloud-starter-circuitbreaker-2.1.1.pom
+2022-04-03 13:33:37,167 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker/2.1.1/spring-cloud-starter-circuitbreaker-2.1.1.pom
+2022-04-03 13:33:37,200 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker/2.1.1/spring-cloud-circuitbreaker-2.1.1.pom
+2022-04-03 13:33:37,222 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker/2.1.1/spring-cloud-circuitbreaker-2.1.1.pom
+2022-04-03 13:33:37,252 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.1.1/spring-cloud-circuitbreaker-resilience4j-2.1.1.pom
+2022-04-03 13:33:37,308 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.1.1/spring-cloud-circuitbreaker-resilience4j-2.1.1.pom
+2022-04-03 13:33:37,625 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-resilience4j-2.1.1.jar
+2022-04-03 13:33:37,633 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.1.1/spring-cloud-circuitbreaker-resilience4j-2.1.1.jar
+2022-04-03 13:33:37,651 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-resilience4j-2.1.1.jar
+2022-04-03 13:33:37,697 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.1.1/spring-cloud-circuitbreaker-resilience4j-2.1.1.jar
+2022-04-03 13:33:38,531 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-gateway-server/src/main/java
+2022-04-03 13:33:38,532 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-gateway-server/src/main/resources
+2022-04-03 13:33:38,532 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-gateway-server/src/main/resources
+2022-04-03 13:33:38,533 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-gateway-server/src/test/java
+2022-04-03 13:33:39,729 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2022-04-03 13:33:40,910 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:33:40,910 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:33:40,910 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-03 13:33:40,943 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:33:40,945 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:33:40,946 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:33:40,946 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 13:33:41,074 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-resilience4j-2.1.1-sources.jar
+2022-04-03 13:33:41,277 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-resilience4j-2.1.1-sources.jar
+2022-04-03 13:33:41,282 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-circuitbreaker-resilience4j:2.1.1
+2022-04-03 13:33:41,443 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.1.1/spring-cloud-circuitbreaker-resilience4j-2.1.1-sources.jar
+2022-04-03 13:33:41,479 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.1.1/spring-cloud-circuitbreaker-resilience4j-2.1.1-sources.jar
+2022-04-03 13:33:41,508 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-circuitbreaker-resilience4j:2.1.1
+2022-04-03 13:33:41,512 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-circuitbreaker-resilience4j:2.1.1
+2022-04-03 13:33:41,516 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-circuitbreaker-resilience4j:2.1.1
+2022-04-03 13:33:44,294 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:33:44,294 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:33:44,294 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:33:44,295 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:33:44,297 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:33:44,297 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:33:44,297 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 13:34:17,853 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.gateway:springboot-servicio-gateway-server:0.0.1-SNAPSHOT @ C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\pom.xml.
+2022-04-03 13:34:18,408 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.1.1.pom
+2022-04-03 13:34:18,476 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.1.1.pom
+2022-04-03 13:34:18,574 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-reactor/1.7.0/resilience4j-reactor-1.7.0.pom
+2022-04-03 13:34:18,618 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-reactor/1.7.0/resilience4j-reactor-1.7.0.pom
+2022-04-03 13:34:19,089 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-reactor/1.7.0/resilience4j-reactor-1.7.0.jar
+2022-04-03 13:34:19,104 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.1.1.jar
+2022-04-03 13:34:19,123 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-reactor/1.7.0/resilience4j-reactor-1.7.0.jar
+2022-04-03 13:34:19,135 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.1.1.jar
+2022-04-03 13:34:19,697 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:34:19,697 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:34:19,697 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:34:19,697 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:34:19,733 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:34:19,733 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:34:19,733 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 13:34:21,823 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.1.1-sources.jar
+2022-04-03 13:34:21,875 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.1.1/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.1.1-sources.jar
+2022-04-03 13:34:21,880 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-circuitbreaker-reactor-resilience4j:2.1.1
+2022-04-03 13:34:21,949 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-reactor/1.7.0/resilience4j-reactor-1.7.0-sources.jar
+2022-04-03 13:34:21,972 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-reactor/1.7.0/resilience4j-reactor-1.7.0-sources.jar
+2022-04-03 13:34:21,978 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-reactor:1.7.0
+2022-04-03 13:34:23,643 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:34:23,644 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:34:23,644 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-03 13:34:23,650 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:34:23,653 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:34:23,653 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:34:23,653 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 13:36:34,505 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:36:34,505 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:36:34,507 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-03 13:36:34,543 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:36:34,549 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:36:34,549 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:36:34,550 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 13:37:07,096 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:37:07,096 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:37:07,096 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-03 13:37:07,126 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:37:07,128 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:37:07,129 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:37:07,129 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 13:41:36,874 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-03 13:41:38,374 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.gateway:springboot-servicio-gateway-server:0.0.1-SNAPSHOT @ C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\pom.xml.
+2022-04-03 13:41:39,937 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-gateway-server/src/main/java
+2022-04-03 13:41:39,938 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-gateway-server/src/main/resources
+2022-04-03 13:41:39,938 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-gateway-server/src/main/resources
+2022-04-03 13:41:39,939 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-gateway-server/src/test/java
+2022-04-03 13:41:40,642 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-04-03 13:41:42,558 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:41:42,558 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:41:42,559 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-03 13:41:42,563 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:41:42,565 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:41:42,566 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:41:42,566 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 13:47:30,144 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:47:30,144 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:47:30,145 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-03 13:47:30,185 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:47:30,187 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:47:30,187 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:47:30,187 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 13:54:45,602 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:54:45,603 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:54:45,603 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-03 13:54:45,640 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 13:54:45,643 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 13:54:45,643 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 13:54:45,643 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 14:06:39,473 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.gateway:springboot-servicio-gateway-server:0.0.1-SNAPSHOT @ C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\pom.xml.
+2022-04-03 14:06:42,451 [Worker-47: Check for devtools] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2.pom
+2022-04-03 14:06:42,508 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2.pom
+2022-04-03 14:06:42,512 [Worker-47: Check for devtools] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2.pom
+2022-04-03 14:06:42,544 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2.pom
+2022-04-03 14:06:43,043 [Worker-47: Check for devtools] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2.jar
+2022-04-03 14:06:43,044 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2.jar
+2022-04-03 14:06:43,062 [Worker-47: Check for devtools] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2.jar
+2022-04-03 14:06:43,067 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2.jar
+2022-04-03 14:06:45,262 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:06:45,262 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:06:45,262 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 14:06:45,262 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 14:06:45,263 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:06:45,263 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:06:45,263 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 14:06:47,005 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:06:47,005 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:06:47,006 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-03 14:06:47,009 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 14:06:47,013 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:06:47,013 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:06:47,013 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 14:06:47,098 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2-sources.jar
+2022-04-03 14:06:47,231 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-reactor-resilience4j-2.0.2-sources.jar
+2022-04-03 14:06:47,235 [Worker-47: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-circuitbreaker-reactor-resilience4j:2.0.2
+2022-04-03 14:06:48,178 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:06:48,178 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:06:48,178 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 14:06:48,179 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 14:06:48,182 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:06:48,182 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:06:48,183 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 14:07:16,192 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-03 14:07:16,699 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.gateway:springboot-servicio-gateway-server:0.0.1-SNAPSHOT @ C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\pom.xml.
+2022-04-03 14:07:17,528 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-gateway-server/src/main/java
+2022-04-03 14:07:17,528 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-gateway-server/src/main/resources
+2022-04-03 14:07:17,528 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-gateway-server/src/main/resources
+2022-04-03 14:07:17,529 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-gateway-server/src/test/java
+2022-04-03 14:07:18,080 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-04-03 14:07:19,556 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:07:19,557 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:07:19,557 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-03 14:07:19,561 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 14:07:19,563 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:07:19,563 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:07:19,563 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 14:14:14,548 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.gateway:springboot-servicio-gateway-server:0.0.1-SNAPSHOT @ C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\pom.xml.
+2022-04-03 14:14:16,035 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:14:16,035 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:14:16,035 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 14:14:16,035 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 14:14:16,037 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:14:16,037 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:14:16,037 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-03 14:14:18,939 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:14:18,940 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:14:18,940 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-03 14:14:18,944 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-03 14:14:18,947 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-03 14:14:18,947 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-03 14:14:18,947 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-07 21:34:30,080 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-07 21:36:41,480 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-07 21:36:41,480 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-07 21:36:41,546 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-07 21:36:41,869 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-07 21:36:41,875 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-07 21:36:41,875 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-07 21:36:41,876 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-07 21:37:06,066 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-07 21:37:08,787 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.gateway:springboot-servicio-gateway-server:0.0.1-SNAPSHOT @ C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\pom.xml.
+2022-04-07 21:37:11,628 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-gateway-server/src/main/java
+2022-04-07 21:37:11,629 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-gateway-server/src/main/resources
+2022-04-07 21:37:11,630 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-gateway-server/src/main/resources
+2022-04-07 21:37:11,632 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-gateway-server/src/test/java
+2022-04-07 21:37:12,862 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2022-04-07 21:37:15,594 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-07 21:37:15,595 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-07 21:37:15,597 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-07 21:37:15,645 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-07 21:37:15,653 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-07 21:37:15,653 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-07 21:37:15,653 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-07 21:41:13,490 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-07 21:41:13,490 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-07 21:41:13,502 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-07 21:41:13,545 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-07 21:41:13,547 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-07 21:41:13,548 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-07 21:41:13,548 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-12 20:29:16,219 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-12 20:32:31,229 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-12 20:32:31,243 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-12 20:32:31,254 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-12 20:32:31,355 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-12 20:32:31,359 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-12 20:32:31,360 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-12 20:32:31,360 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-12 20:39:23,055 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-12 20:39:23,130 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-12 20:39:23,144 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-12 20:39:23,228 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-12 20:39:23,251 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-12 20:39:23,269 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-12 20:39:23,284 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-12 20:39:58,089 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-12 20:39:58,647 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-12 20:40:00,186 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-12 20:40:02,531 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-12 20:40:03,523 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-12 20:40:05,561 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-12 20:40:06,585 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-13 20:27:10,102 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-13 20:30:49,708 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:30:49,720 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:30:49,731 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:30:49,795 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:30:49,800 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:30:49,800 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:30:49,800 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-productos\src\test\resources
+2022-04-13 20:36:37,298 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:36:37,298 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:36:37,299 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-13 20:36:37,377 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:36:37,385 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:36:37,385 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:36:37,385 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-13 20:37:54,950 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:37:54,950 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:37:54,955 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:37:54,971 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:37:54,973 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:37:54,973 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:37:54,973 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-13 20:43:01,802 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:43:01,802 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:43:01,803 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:43:01,817 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:43:01,819 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:43:01,819 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:43:01,819 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-13 20:49:49,385 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:49:49,385 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:49:49,386 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:49:49,422 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:49:49,426 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:49:49,426 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:49:49,426 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-13 20:50:41,929 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:50:41,929 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:50:41,929 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:50:41,957 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:50:41,962 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:50:41,962 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:50:41,962 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-13 20:51:29,598 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:51:29,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:51:29,612 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-13 20:51:29,676 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:51:29,682 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:51:29,682 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:51:29,682 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-13 20:51:41,552 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:51:41,552 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:51:41,553 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:51:41,591 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:51:41,596 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:51:41,596 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:51:41,597 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fran\Documents\Cursos\SpringCloud\spring-cloud\springboot-servicio-gateway-server\src\test\resources
+2022-04-13 20:52:06,669 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:52:06,669 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:52:06,670 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:52:06,683 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:52:06,685 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:52:06,685 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
