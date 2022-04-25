@@ -21,7 +21,7 @@ public class ItemServiceFeignImpl implements IItemService {
 	@Override
 	public List<Item> findAll() {
 		//Trasformamos una lista de productos en una lista de items
-				return clienteFeign.listar().stream().map(p -> new Item(p, 1)).collect(Collectors.toList());
+		return clienteFeign.listar().stream().map(p -> new Item(p, 1)).collect(Collectors.toList());
 	}
 
 	@Override
@@ -32,19 +32,17 @@ public class ItemServiceFeignImpl implements IItemService {
 
 	@Override
 	public Producto save(Producto producto) {
-		// TODO Auto-generated method stub
-		return null;
+		return clienteFeign.crear(producto);
 	}
 
 	@Override
 	public Producto update(Producto producto, Long id) {
-		// TODO Auto-generated method stub
-		return null;
+		return clienteFeign.update(producto, id);
 	}
 
 	@Override
 	public void delete(Long id) {
-		// TODO Auto-generated method stub
+		clienteFeign.eliminar(id);
 		
 	}
 
