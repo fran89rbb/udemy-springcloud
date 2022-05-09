@@ -18,7 +18,7 @@ import com.formacionbdi.springboot.app.commons.usuarios.models.entity.Usuario;
 import com.formacionbdi.springboot.app.oauth.clients.IUsuarioFeignClient;
 
 @Service
-public class UsuarioService implements UserDetailsService{
+public class UsuarioService implements IUsuarioService, UserDetailsService{
 	
 	private final Logger logger = LoggerFactory.getLogger(UserDetailsService.class);
 	
@@ -43,6 +43,11 @@ public class UsuarioService implements UserDetailsService{
 		logger.info("Usuario autenticado: " +username);
 		
 		return new User(usuario.getUsername(), usuario.getPassword(), usuario.getEnabled(), true, true, true, authorities);
+	}
+
+	@Override
+	public Usuario findByUsername(String username) {
+		return client.findByUsername(username);
 	}
 
 }
